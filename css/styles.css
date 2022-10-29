@@ -212,7 +212,7 @@ p {
 
    color: var(--title-text-color);
 
-   font-size: 16px;
+   font-size: inherit;
    font-weight: 700;
    line-height: 1.14;
    text-transform: uppercase;
