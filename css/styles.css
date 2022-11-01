@@ -156,10 +156,11 @@ ul {
 
 	max-width: 1600px;
    text-align: center;
+
+	background-color: #2f303a;
 }
 
 .hero-title {
-   background-color: #2f303a;
    margin-left: auto;
    margin-right: auto;
    margin-bottom: 30px;
